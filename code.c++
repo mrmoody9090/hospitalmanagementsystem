@@ -266,8 +266,7 @@ int emer(){
 	
 }
 main(){
-	cout<<"This Project is created  by:\t\t|\n\t\t\t\t\t|\n\tHassan Mehmood (BSCYS-009).\t|\n\tAreeba Zafar (BSCYS-018).\t|";
-	cout<<"\n\tAmbreen (BSEE-014).\t\t|\n\n";
+	
 	hps c[30];
 	int a,b,d,e,i=1,f,j=80;
 	cout<<"\t\t\tWELCOME TO CITY HOSPITAL\n";
